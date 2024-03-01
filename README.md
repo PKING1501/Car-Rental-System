@@ -1,6 +1,16 @@
 # Car-Rental-System
 CS253 (Software Development) Programming Assignment 1
 
+### Running the Program
+
+To run the program seamlessly, ensure you have an optimal C++ compiler installed for your Visual Studio Code environment. Additionally, the code can also be conveniently executed on online compilers such as onlinegdb.com and programmiz.
+
+Before running the program, make sure to include the necessary libraries as mentioned in the code. If any issues arise during the execution, feel free to contact me:
+
+- **CSE Email:** pk@cse.iitk.ac.in
+- **IITK Email:** premk22@iitk.ac.in
+
+
 ## Program Overview
 
 **1. Unique Email IDs:** The system ensures that both customers and employees have unique email IDs upon registration.
