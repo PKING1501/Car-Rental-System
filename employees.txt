@@ -1,0 +1,30 @@
+1
+Rushikesh Chary
+drushikesh@cse.iitk.ac.in
+12345678
+0
+20
+2
+Harsh Agarwal
+harshag22@cse.iitk.ac.in
+Harsh
+0
+30
+3
+Priyanshu
+priyanshus22@cse.iitk.ac.in
+PSingh
+0
+10
+4
+Arshit
+arshit@cse.iitk.ac.in
+IITK
+0
+30
+5
+Naman Kumar Jaiswal
+naman1234@gmail.com
+NKJ
+0
+30

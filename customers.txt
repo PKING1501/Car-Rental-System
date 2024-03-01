@@ -1,0 +1,31 @@
+1
+Prem Kansagra
+premk22@iitk.ac.in
+Prem1234
+0
+10
+2
+Yash Verma
+yashv22@iitk.ac.in
+EE
+0
+40
+3
+Zartaf Raza
+zr22@iitk.ac.in
+ZR
+2
+10
+4
+Nikhil Gupta
+nikhilg22@iitk.ac.in
+IITKanpur
+0
+10
+5
+Prem
+pk@cse.iitk.ac.in
+CS253
+0
+20
+
